@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(108, 108, 123);
+    color: white;
+}
+
+
+.container{
+    margin-left: 30rem;
+    margin-top: 10rem;
+}
+
+
+.answer{
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.output{
+    overflow:hidden;
+    background-color: rgb(154, 118, 70);
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15px 15px;
+}
